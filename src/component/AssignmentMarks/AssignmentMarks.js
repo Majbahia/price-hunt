@@ -47,7 +47,7 @@ const AssignmentMarks = () => {
         }
     ];
     return (
-        <div className=''>
+        <div className="">
             <LineChart width={800} height={600} data={data}>
                 <XAxis dataKey="name" />
                 <YAxis />
