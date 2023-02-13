@@ -5,45 +5,45 @@ const AssignmentMarks = () => {
     const data = [
         {
             name: "Page A",
-            marks: 4000,
-            quiz: 2400,
-            amt: 2400
+            marks: 80,
+            quiz: 36,
+            amt: 115
         },
         {
             name: "Page B",
-            marks: 3000,
-            quiz: 1398,
-            amt: 2210
+            marks: 45,
+            quiz: 36,
+            amt: 112
         },
         {
             name: "Page C",
-            marks: 2000,
-            quiz: 9800,
-            amt: 2290
+            marks: 96,
+            quiz: 45,
+            amt: 115
         },
         {
             name: "Page D",
-            marks: 2780,
-            quiz: 3908,
-            amt: 2000
+            marks: 55,
+            quiz: 66,
+            amt: 115
         },
         {
             name: "Page E",
-            marks: 1890,
-            quiz: 4800,
-            amt: 2181
+            marks: 85,
+            quiz: 48,
+            amt: 114
         },
         {
             name: "Page F",
-            marks: 2390,
-            quiz: 3800,
-            amt: 2500
+            marks: 78,
+            quiz: 42,
+            amt: 113
         },
         {
             name: "Page G",
-            marks: 3490,
-            quiz: 4300,
-            amt: 2100
+            marks: 40,
+            quiz: 35,
+            amt: 115
         }
     ];
     return (
